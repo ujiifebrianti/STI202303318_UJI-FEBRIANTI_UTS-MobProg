@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   final List<Event> _events = []; // simpan semua event di sini
 
   final List<String> _titles = [
-    "My Eventt Planner",
+    "My Event Planner",
     "Tambah Event",
     "Media Event",
   ];
